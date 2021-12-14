@@ -1,1 +1,8 @@
 jdbc:sqlserver://hotelguest.database.windows.net:1433;database=hotelguestdatabase;user=rootadmin@hotelguest;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+
+
+//"StorrageAccontName": "appdatastrg",
+  //"Key": "DefaultEndpointsProtocol=https;AccountName=appdatastrg;AccountKey=eKnTuH+D3nO5nnszn2u4v8jGe0ZpMcFOeNnSqbBV4rCEN/s50KR/e5uqZ462xn6/dNy5LaBQr2G4MudApMXgOQ==;EndpointSuffix=core.windows.net",
+  //"Containername": "fileupload",
+  
+  https://keyvaultforwebapp.vault.azure.net/
